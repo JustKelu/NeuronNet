@@ -1,5 +1,14 @@
 # 🤖 NeuroNet App
 
+## 🌐 Live Demo
+
+Check out the app live: [NeuroNet](https://neuron-ewhh.onrender.com/)
+
+> ⚠️ **Heads up:**  
+> The first time you open the app, it might take a few seconds to load due to **Render's cold start**.  
+> Since the frontend and backend are on separate services, the **first request to the backend may take a bit longer** while it wakes up.  
+> Don’t worry—once it’s running, everything will be fast and smooth!
+
 A sleek, real-time AI chat application with streaming responses powered by Groq AI. Built with React and Express.
 
 ![NeuroNet Demo](https://i.imgur.com/8vTEpM6.png)
